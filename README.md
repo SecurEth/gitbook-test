@@ -1,5 +1,5 @@
 ---
-description: It's okay
+description: Main page
 ---
 
 # Guidelines
@@ -8,5 +8,5 @@ description: It's okay
 
 This is not a drill
 
-### This is a fire fight!
+### This is a test!
 
