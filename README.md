@@ -6,9 +6,7 @@ description: Main page
 
 ## One thing to note
 
-This is not a drill
-
-### This is a test!
+Woo!
 
 
 
